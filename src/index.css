@@ -1,0 +1,101 @@
+#root {
+    color: aqua;
+}
+
+
+
+.Search {
+    width: 100px;
+    height: 30px;
+    margin-left: 100px;
+    border: transparent;
+    color: white;
+    background-color: lightgrey;
+}
+
+.logo {
+    margin: -5px;
+    width: 170px;
+    height: 80px;
+}
+
+.Button {
+    margin: 23px;
+    height: 10%;
+}
+
+.newPostLabel {
+    color: white;
+}
+
+.sign_up {
+    height: 10%;
+    margin: 23px;
+}
+
+.sign_in {
+    background-color: transparent;
+    height: 10%;
+    margin: 23px;
+    color: white;
+    border: transparent;
+}
+
+.ion {
+    height: 43%;
+}
+
+.nav{
+   
+   
+    color: #fff;
+    background-size: cover;
+    background-image: url(./download.png);
+    background-repeat: no-repeat;
+    height: 350px;
+    
+}
+body{
+    font-family: Proxima Nova Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
+    background-color: #2e3035;
+   
+}
+
+
+.ss1 {
+    display: flex;
+}
+
+.jj {
+    width: 900px;
+    margin-left: 25%;
+    height: 120px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.h2 {
+    margin-left: 50%;
+    font-size: 25px;
+    letter-spacing: .6px;
+    color: #aed8ea;
+    text-align: center;
+    min-height: 34px;
+    position: relative;
+}
+
+.btn {
+    height: 30px;
+  
+}
+.btn1{
+    height: 30px;
+   
+}
+.allcard{
+    
+margin-top: -35px;
+   margin-left: 5%;
+
+}
